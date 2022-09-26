@@ -1,0 +1,11 @@
+C:\Users\robth\Desktop\swf-editor\bin\Debug\swf-editor.exe.config
+C:\Users\robth\Desktop\swf-editor\bin\Debug\swf-editor.exe
+C:\Users\robth\Desktop\swf-editor\bin\Debug\swf-editor.pdb
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.csproj.AssemblyReference.cache
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf_editor.MainWindow.resources
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf_editor.Properties.Resources.resources
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.csproj.GenerateResource.cache
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.csproj.CoreCompileInputs.cache
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.exe
+C:\Users\robth\Desktop\swf-editor\obj\Debug\swf-editor.pdb

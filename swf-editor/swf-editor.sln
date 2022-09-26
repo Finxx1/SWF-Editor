@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swf-editor", "swf-editor.csproj", "{E8845885-DCFF-4BFF-8395-49A41BD7CB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swf-lib", "swf-lib\swf-lib.csproj", "{EC8076D1-D9D6-436C-A58D-8031F232B39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8845885-DCFF-4BFF-8395-49A41BD7CB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8845885-DCFF-4BFF-8395-49A41BD7CB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8845885-DCFF-4BFF-8395-49A41BD7CB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8845885-DCFF-4BFF-8395-49A41BD7CB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8076D1-D9D6-436C-A58D-8031F232B39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8076D1-D9D6-436C-A58D-8031F232B39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8076D1-D9D6-436C-A58D-8031F232B39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8076D1-D9D6-436C-A58D-8031F232B39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35A9DF9-5249-4684-B234-114A59ECF4DF}
+	EndGlobalSection
+EndGlobal

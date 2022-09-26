@@ -1,0 +1,15 @@
+C:\Users\robth\Desktop\swf-editor\swf-lib\bin\Debug\net6.0\swf-lib.exe
+C:\Users\robth\Desktop\swf-editor\swf-lib\bin\Debug\net6.0\swf-lib.deps.json
+C:\Users\robth\Desktop\swf-editor\swf-lib\bin\Debug\net6.0\swf-lib.runtimeconfig.json
+C:\Users\robth\Desktop\swf-editor\swf-lib\bin\Debug\net6.0\swf-lib.dll
+C:\Users\robth\Desktop\swf-editor\swf-lib\bin\Debug\net6.0\swf-lib.pdb
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.csproj.AssemblyReference.cache
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.AssemblyInfoInputs.cache
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.AssemblyInfo.cs
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.csproj.CoreCompileInputs.cache
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.dll
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\refint\swf-lib.dll
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.pdb
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\swf-lib.genruntimeconfig.cache
+C:\Users\robth\Desktop\swf-editor\swf-lib\obj\Debug\net6.0\ref\swf-lib.dll
